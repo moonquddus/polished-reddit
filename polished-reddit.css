@@ -1,0 +1,17 @@
+.mq-enhancements .side {
+  position: fixed;
+  right: -100%;
+}
+
+.mq-enhancements .tagline, .search-result-meta {
+  font-size: small;
+}
+
+.mq-enhancements .link .flat-list {
+  font-size: small;
+}
+
+body.mq-enhancements >.content .link .rank, 
+.mq-enhancements .rank-spacer {
+  display: none;
+}
